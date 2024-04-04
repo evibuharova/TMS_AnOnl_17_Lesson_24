@@ -1,8 +1,10 @@
-package com.example.tms_anonl_17_lesson_22
+package com.example.tms_anonl_17_lesson_24.list
 
 import android.view.View
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.tms_anonl_17_lesson_24.Note
+import com.example.tms_anonl_17_lesson_24.R
 
 class NoteViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView){
     private val name:TextView=itemView.findViewById(R.id.name)

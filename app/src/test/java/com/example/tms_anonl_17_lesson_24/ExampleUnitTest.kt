@@ -1,4 +1,4 @@
-package com.example.tms_anonl_17_lesson_22
+package com.example.tms_anonl_17_lesson_24
 
 import org.junit.Test
 
